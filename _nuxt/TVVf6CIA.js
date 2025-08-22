@@ -1,1 +1,0 @@
-import{_ as s,f as n,g as r,j as e,W as l,F as a}from"./ClEHuJLq.js";const f={};function u(o,t){return r(),n(a,null,[t[0]||(t[0]=e("p",null,"this is an custom fucking layout",-1)),l(o.$slots,"default"),t[1]||(t[1]=e("footer",null,"fucking footer",-1))],64)}const i=s(f,[["render",u]]);export{i as default};
