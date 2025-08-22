@@ -1,0 +1,1 @@
+import{x as o}from"./DmHE0Kjc.js";import{u as r}from"./BemAJI7D.js";import{q as e}from"./BvVPNK_r.js";const a=()=>{const t=o();return r(()=>e("content").path(t.fullPath).first(),"$FhUFgv_Hyi")};export{a as u};
