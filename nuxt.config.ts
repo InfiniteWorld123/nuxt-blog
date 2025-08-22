@@ -4,6 +4,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxtjs/tailwindcss", "@nuxtjs/color-mode", "@nuxt/content"],
   content: {
-    studio: true, // ← هذا هو المطلوب
+    preview: {
+      api: "https://api.nuxt.studio",
+    },
   },
 });
